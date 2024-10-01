@@ -1,0 +1,11 @@
+#Decision Tree 
+A decision tree is to split the data into smaller subgroups until the target 
+variable can be properly predicted. This research investigates the use of 
+decision trees with the categorical and ordinal data included in the Titanic 
+dataset. In order to tackle classification issues with both forms of data, the 
+tasks entail creating and assessing decision tree models using the CART 
+(Classification and Regression Tree) technique.
+
+#CART 
+The binary tree structure employed in this project, called CART, allows each 
+internal node to have a maximum of two offspring.
